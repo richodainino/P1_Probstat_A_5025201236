@@ -1,7 +1,6 @@
-# P1_Probstat_A_5025201236
-Praktikum Probstat 2022 Modul 1 - Distribusi Probabilitas
-Made Rianja Richo Dainino
-5025201236
+# Praktikum Probstat 2022 Modul 1 - Distribusi Probabilitas
+Made Rianja Richo Dainino <br />
+5025201236 <br />
 Probstat A
 
 ### 1. Seorang penyurvei secara acak memilih orang-orang di jalan sampai dia bertemu dengan seseorang yang menghadiri acara vaksinasi sebelumnya.
